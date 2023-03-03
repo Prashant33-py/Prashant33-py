@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prashant33-py
-- 👀 I’m interested in Full Stack Web Development and Data Science
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently working on Java Spring Boot Microservices
 - 📫 How to reach me: pvasala786@gmail.com
 
 <!---
