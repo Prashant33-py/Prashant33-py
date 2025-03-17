@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prashant33-py
+- 👋 Hi, I’m Prashant Vasala
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently working on Java Spring Boot Microservices
 - 📫 How to reach me: pvasala786@gmail.com
